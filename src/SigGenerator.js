@@ -11,7 +11,6 @@ const SigGenerator = () => {
       title: "",
       cell: "",
       imgUrl: "",
-      bonusImgUrl: "",
     },
     onSubmit: (values) => {
       alert(JSON.stringify(values, null, 2));
@@ -72,14 +71,6 @@ const SigGenerator = () => {
           onChange={formik.handleChange}
           value={formik.values.imgUrl}
         />
-        <label htmlFor="cell">Bonus Image URL</label>
-        <input
-          id="bonusImgUrl"
-          name="bonusImgUrl"
-          type="url"
-          onChange={formik.handleChange}
-          value={formik.values.bonusImgUrl}
-        />
       </form>
       <div className="right">
         <Sig
@@ -90,7 +81,6 @@ const SigGenerator = () => {
           cell={formik.values.cell}
           email={formik.values.email}
           imgUrl={formik.values.imgUrl}
-          bonusImgUrl={formik.values.bonusImgUrl}
         />
         <textarea
           value={renderToString(

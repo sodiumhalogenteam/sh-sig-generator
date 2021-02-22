@@ -1,15 +1,7 @@
 import { formatPhoneNumber } from "./utils";
 import image from "./img/sh-logo.png";
 
-const Sig = ({
-  firstName,
-  lastName,
-  title,
-  cell,
-  email,
-  imgUrl,
-  bonusImgUrl,
-}) => {
+const Sig = ({ firstName, lastName, title, cell, email, imgUrl }) => {
   return (
     <table
       width="320"
