@@ -46,6 +46,7 @@ const Sig = ({
                       padding: "0px",
                       fontFamily: '"Lucida Grande",sans-serif',
                       whiteSpace: "nowrap",
+                      textAlign: "left",
                     }}
                   >
                     <strong>
@@ -74,6 +75,7 @@ const Sig = ({
                       padding: "0px",
                       fontFamily: '"Lucida Grande",sans-serif',
                       whiteSpace: "nowrap",
+                      textAlign: "left",
                     }}
                   >
                     <a
@@ -109,11 +111,14 @@ const Sig = ({
                       padding: "0px",
                       fontFamily: '"Lucida Grande",sans-serif',
                       whiteSpace: "nowrap",
+                      textAlign: "left",
                     }}
                   >
                     <a
                       href="tel:+1-347-688-7226"
-                      style={{ color: "rgb(176,176,176)" }}
+                      style={{
+                        color: "rgb(176,176,176)",
+                      }}
                       target="_blank"
                       rel="noreferrer"
                     >
@@ -134,6 +139,7 @@ const Sig = ({
                         padding: "0px",
                         fontFamily: '"Lucida Grande",sans-serif',
                         whiteSpace: "nowrap",
+                        textAlign: "left",
                       }}
                     >
                       <a
