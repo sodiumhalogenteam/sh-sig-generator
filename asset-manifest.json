@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sh-sig-generator/static/css/main.5b1895fb.chunk.css",
+    "main.js": "/sh-sig-generator/static/js/main.80f75eb1.chunk.js",
+    "main.js.map": "/sh-sig-generator/static/js/main.80f75eb1.chunk.js.map",
+    "runtime-main.js": "/sh-sig-generator/static/js/runtime-main.d9186f45.js",
+    "runtime-main.js.map": "/sh-sig-generator/static/js/runtime-main.d9186f45.js.map",
+    "static/js/2.e9c2ea18.chunk.js": "/sh-sig-generator/static/js/2.e9c2ea18.chunk.js",
+    "static/js/2.e9c2ea18.chunk.js.map": "/sh-sig-generator/static/js/2.e9c2ea18.chunk.js.map",
+    "static/js/3.6f702624.chunk.js": "/sh-sig-generator/static/js/3.6f702624.chunk.js",
+    "static/js/3.6f702624.chunk.js.map": "/sh-sig-generator/static/js/3.6f702624.chunk.js.map",
+    "index.html": "/sh-sig-generator/index.html",
+    "static/css/main.5b1895fb.chunk.css.map": "/sh-sig-generator/static/css/main.5b1895fb.chunk.css.map",
+    "static/js/2.e9c2ea18.chunk.js.LICENSE.txt": "/sh-sig-generator/static/js/2.e9c2ea18.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sh-sig-generator/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9186f45.js",
+    "static/js/2.e9c2ea18.chunk.js",
+    "static/css/main.5b1895fb.chunk.css",
+    "static/js/main.80f75eb1.chunk.js"
+  ]
+}
